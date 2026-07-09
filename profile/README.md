@@ -10,7 +10,7 @@
 
 ---
  
-### 🌍 Building the Future with AI, Climate Intelligence & Space Technology
+### 🌍 Building the Future with AI, Climate Intelligence & Space \Technology
 
 <img src="https://img.shields.io/badge/AI-Intelligence-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine-Learning-purple?style=for-the-badge" />
