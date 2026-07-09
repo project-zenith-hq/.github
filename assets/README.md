@@ -1,1 +1,1 @@
-Organization assets/
+Organization assets.
