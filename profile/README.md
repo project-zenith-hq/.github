@@ -3,7 +3,7 @@
 </p> 
 
 <div align="center">  
-
+ 
 # 🚀 PROJECT ZENITH 
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=ISRO+Hackathon+Team;HeatShield+AI;Urban+Heat+Mitigation+via+AI%2FML;Satellite+Intelligence+%7C+Geospatial+Analytics;Project+Zenith+HQ" />
