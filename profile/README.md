@@ -65,7 +65,7 @@ SYSTEM VISION
                          USER PROFILE
                               │
                               ▼
-                   PROFILE UNDERSTANDING
+                   PROFILE UNDERSTANDING 
                               │
                               ▼
                    ELIGIBILITY ENGINE
