@@ -3,7 +3,7 @@
 <img src="../assets/astra-x-sih26092.png" alt="ASTRA-X — SIH26092" width="100%">
 
 <br>
-
+ 
 # ASTRA-X 
 ### IDEAS BEYOND LIMITS
 **BUILD • INNOVATE • IMPACT** 
