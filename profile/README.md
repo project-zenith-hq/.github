@@ -11,7 +11,7 @@
 <br> 
 
 <a href="https://github.com/ASTRA-X">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+ENGINEERING+%7C+SMART+INDIA+HACKATHON+2026;SIH26092+%7C+DECISION+INTELLIGENCE;APPLIED+AI+%7C+ACTIVE+DEVELOPMENT" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com? font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+ENGINEERING+%7C+SMART+INDIA+HACKATHON+2026;SIH26092+%7C+DECISION+INTELLIGENCE;APPLIED+AI+%7C+ACTIVE+DEVELOPMENT" alt="Typing SVG">
 </a>
 
 <br><br>
